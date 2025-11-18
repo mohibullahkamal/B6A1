@@ -59,7 +59,7 @@ let currentStatus: Status = "Success";
 // let currentStatus: Status = "Processing"; // এটি ভুল দেখাবে
 ```
 ---
-### ইন্টারসেকশন টাইপ ($\&$) - "এবং (AND)"
+### ইন্টারসেকশন টাইপ ($\&&$) - "এবং (AND)"
 
 ```typescript
 type HasID = { id: number };
